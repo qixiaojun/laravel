@@ -1,0 +1,1 @@
+composer require caouecs/laravel-lang:~3.0
